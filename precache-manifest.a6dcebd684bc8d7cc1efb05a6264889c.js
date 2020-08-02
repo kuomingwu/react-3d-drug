@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e21a46e0da1921eeb72e034045ccd00",
+    "revision": "4f82c2d3d913570a9a48d4a3ee1b9346",
     "url": "/react-3d-drug/index.html"
   },
   {
-    "revision": "56e5582f8cd12f072ba6",
+    "revision": "c8e89a541ef639f7b9db",
     "url": "/react-3d-drug/static/css/main.34d95db0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-3d-drug/static/js/2.1963d1ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56e5582f8cd12f072ba6",
-    "url": "/react-3d-drug/static/js/main.a8aade18.chunk.js"
+    "revision": "c8e89a541ef639f7b9db",
+    "url": "/react-3d-drug/static/js/main.e40c8f07.chunk.js"
   },
   {
     "revision": "70dcceffec7bee29fbf9",
