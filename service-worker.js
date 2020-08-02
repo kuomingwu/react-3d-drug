@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-3d-drug/precache-manifest.a6dcebd684bc8d7cc1efb05a6264889c.js"
+  "/react-3d-drug/precache-manifest.740794c2fd21ea4aae2889998ac8c5cb.js"
 );
 
 self.addEventListener('message', (event) => {
